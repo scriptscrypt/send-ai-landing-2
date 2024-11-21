@@ -11,7 +11,7 @@ export function Landing() {
           <h1 className="bg-neutral-950 antialiased relative z-10  text-left text-2xl md:text-3xl  bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-600 font-sans font-bold">
             SEND AI
           </h1>
-          <button className="relative z-10 text-sm md:text-2xl p-2 px-4 rounded-md  text-black bg-gradient-to-b from-neutral-200 to-neutral-600  text-center font-sans font-bold">Join Waitlist</button>
+          {/* <button className="relative z-10 text-sm md:text-2xl p-2 px-4 rounded-md  text-black bg-gradient-to-b from-neutral-200 to-neutral-600  text-center font-sans font-bold">Join Waitlist</button> */}
         </div>
         <div className="flex flex-col items-center justify-center w-full mt-40">
           <div className="max-w-4xl mx-auto p-4">
